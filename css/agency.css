@@ -118,6 +118,7 @@ section h3.section-subheading {
 .btn-expandable {
   padding: 20px;
   margin: 20px;
+  font-size: smaller;
 
 }
 ::-moz-selection {
